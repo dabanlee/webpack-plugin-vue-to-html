@@ -1,0 +1,17 @@
+{
+  "name": "webpack-plugin-vue-to-html",
+  "version": "1.0.0",
+  "description": "a webpack plugin to render the vue component to static html.",
+  "main": "src/index.js",
+  "repository": {
+    "url": "https://github.com/JustClear/webpack-plugin-vue-to-html.git",
+    "type": "git"
+  },
+  "author": "JustClear <576839360@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "just-extend-it": "^1.0.1",
+    "vue": "^2.5.21",
+    "vue-server-renderer": "^2.5.21"
+  }
+}
